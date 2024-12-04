@@ -16,7 +16,7 @@ Autofit Rows and Columns
     - IFERROR
     - Formatting
     - Gridlines
-    -
-[Presentation1.pptx](https://github.com/user-attachments/files/18011041/Presentation1.pptx)
+    
+
 
    
